@@ -14,6 +14,7 @@ Atomを起動して以下のパッケージをインストールするだけ。
 [Practice1](./src/practice1.glsl) : 時間とマウス座標に合わせて画面の色を変える  
 [Practice2](./src/practice2.glsl) : マウス座標に合わせてレイマーチングした円の大きさと視点深さ、円の大きさは時間に合わせて鼓動もする  
 [Practice3](./src/practice3.glsl) : mod演算による複製、擬似乱数による円の振動、深度で色をゆるやかに変えるレイマーチングスフィア    
+[Practice4](./src/practice4.glsl) : ランダムなマップを作成し、マウス座標でマス目ごとに乱数のパターンを変える    
 
 # 役に立った参考リンク
 1. [シェーダライブコーディングのすすめ](https://docs.google.com/presentation/d/1n_L8VJZs-Ig4FrlaUe5X2dhFB77ZPbiDBirjkoM4Afc/edit#slide=id.g5993dc7d82_11_4)  
