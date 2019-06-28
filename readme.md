@@ -15,6 +15,7 @@ Atomを起動して以下のパッケージをインストールするだけ。
 [Practice2](./src/practice2.glsl) : マウス座標に合わせてレイマーチングした円の大きさと視点深さ、円の大きさは時間に合わせて鼓動もする  
 [Practice3](./src/practice3.glsl) : mod演算による複製、擬似乱数による円の振動、深度で色をゆるやかに変えるレイマーチングスフィア    
 [Practice4](./src/practice4.glsl) : ランダムなマップを作成し、マウス座標でマス目ごとに乱数のパターンを変える    
+[Practice5](./src/practice5.glsl) : レイマーチングの結果からノーマルマップを計算、複数のオブジェクトの組み合わせ    
 
 # 役に立った参考リンク
 1. [シェーダライブコーディングのすすめ](https://docs.google.com/presentation/d/1n_L8VJZs-Ig4FrlaUe5X2dhFB77ZPbiDBirjkoM4Afc/edit#slide=id.g5993dc7d82_11_4)  
@@ -24,3 +25,4 @@ Atomを起動して以下のパッケージをインストールするだけ。
 1. [GLSL レイマーチング入門 vol.1](https://qiita.com/edo_m18/items/034665d42c562da88cb6)  
 1. [GLSL SandBoxで手軽にレイマーチングで遊ぼう](https://hackerslab.aktsk.jp/2018/12/01/131928)  
 1. [The Book of Shaders](https://thebookofshaders.com/) これは神資料かも？  
+1. [Can I generate a random number inside a pixel shader?](https://stackoverflow.com/questions/5149544/can-i-generate-a-random-number-inside-a-pixel-shader)  
