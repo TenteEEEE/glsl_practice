@@ -18,6 +18,7 @@ Atomを起動して以下のパッケージをインストールするだけ。
 [Practice5](./src/practice5.glsl) : レイマーチングの結果からノーマルマップを計算、複数のオブジェクトの組み合わせ    
 [Practice6](./src/practice6.glsl) : mix(線形補間)によるモーフィング    
 [Practice7](./src/practice7.glsl) : シンプレックスノイズのための3角グリッドの生成のifなし実装    
+[Practice8](./src/practice8.glsl) : 解像度測定用に書いてみたcos周期でだんだん密になる模様    
 
 # 役に立った参考リンク
 1. [シェーダライブコーディングのすすめ](https://docs.google.com/presentation/d/1n_L8VJZs-Ig4FrlaUe5X2dhFB77ZPbiDBirjkoM4Afc/edit#slide=id.g5993dc7d82_11_4)  
