@@ -29,3 +29,4 @@ Atomを起動して以下のパッケージをインストールするだけ。
 1. [GLSL SandBoxで手軽にレイマーチングで遊ぼう](https://hackerslab.aktsk.jp/2018/12/01/131928)  
 1. [The Book of Shaders](https://thebookofshaders.com/) これは神資料かも？  
 1. [Can I generate a random number inside a pixel shader?](https://stackoverflow.com/questions/5149544/can-i-generate-a-random-number-inside-a-pixel-shader)  
+1. [GLSLで行列で回転・縮小をする為のメモ](https://nogson2.hatenablog.com/entry/2017/11/09/234006)  
