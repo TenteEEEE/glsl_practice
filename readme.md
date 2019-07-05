@@ -30,3 +30,4 @@ Atomを起動して以下のパッケージをインストールするだけ。
 1. [The Book of Shaders](https://thebookofshaders.com/) これは神資料かも？  
 1. [Can I generate a random number inside a pixel shader?](https://stackoverflow.com/questions/5149544/can-i-generate-a-random-number-inside-a-pixel-shader)  
 1. [GLSLで行列で回転・縮小をする為のメモ](https://nogson2.hatenablog.com/entry/2017/11/09/234006)  
+1. [Distance functions](http://iquilezles.org/www/articles/distfunctions/distfunctions.htm)  
